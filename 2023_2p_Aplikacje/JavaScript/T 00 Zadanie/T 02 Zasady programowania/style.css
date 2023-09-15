@@ -1,0 +1,14 @@
+body{
+    background-color: burlywood;
+    font-size: large;
+}
+#naglowek{
+    background-color: saddlebrown;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    color: whitesmoke;
+}
+img {
+    width: 200px;
+}
